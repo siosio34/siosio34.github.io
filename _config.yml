@@ -61,7 +61,7 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://siosio34.github.io/'
+  siteurl: 'http://siosio34.github.io'
   relativeLinks: 'http://siosio34.github.io/links.jsonp'
   media: 'images'
   metadata:

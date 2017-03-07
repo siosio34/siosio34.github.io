@@ -1,6 +1,5 @@
 title:            GUNGHI 개발 블로그
 description:      "각종 삽질 및 지식을 끄적이는 공간입니다."
-logo:             logo.png
 disqus_shortname: siosio34
 share:            true
 dropcap:			true
@@ -14,10 +13,9 @@ owner:
   name:           GUNGHI
   email:          siosio3103@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Awesome Dude, Awesome Life
+  description:    프로그래머
   # Social networking links used in footer. Update and remove as you like.
   github:         siosio34      
-  # For Google Authorship https://plus.google.com/authorship
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   UA-39365944-7

@@ -29,11 +29,8 @@ links:
   - title: Home
     url: /
     external: false
-    icon: home
-  - title: Featured Posts
-    url: /featured
-  - title: Categories
-    url: /categories
+  - title: Potfolio
+    url: /potfolio
   - title: About
     url: /about
 

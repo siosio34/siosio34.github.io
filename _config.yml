@@ -1,15 +1,14 @@
 # Site settings
-title: Clean Blog
+title: GUNGHI 개발 블로그
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-copyright_name: Your/Project/Corporate Name
-description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  StartBootstrap
-email_username:  your-email@yourdomain.com
+email: siosio3103@gmail.com
+copyright_name: Your/Project/GUNGHI
+description: "이것저것 개발내용을 정리하는 블로그입니다"
+baseurl: ""
+url: "https://siosio3103.github.io"
+github_username:  siosio34
+facebook_username:  siosio34
+email_username:  siosio3103@gmail.com
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
